@@ -3,7 +3,9 @@
 
 ### 为了方便大家收藏，我已经把 Python 100题整理成了 PDF 文档，需要文档的可以关注下方公众号「Python知识圈」并回复：“100” 获取PDF文档。
 
-![Python知识圈公众号二维码](http://blog.pyzhishiquan.com/img/20200427091312.jpg)
+![](http://blog.pyzhishiquan.com/img/20201010161129.jpg)
+
+
 
 
 
